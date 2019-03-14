@@ -11,7 +11,7 @@ int main(void)
 {
 	int A[ROWS][COLS];
 
-	random_walk(A, ROWS); /// 
+	random_walk(A, ROWS); /// asdf
 
 	printf("Matrix A:");
 	show((int *)A, ROWS, COLS);
